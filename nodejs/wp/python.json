@@ -1,0 +1,4 @@
+{
+    "php": "echo Hello World",
+    "ruby": "puts Hello world"
+}
